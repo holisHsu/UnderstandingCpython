@@ -20,3 +20,7 @@ Ultimate goal is that I can explain how Guido plan to accelerate python to other
 [2- Talk Ref Guido Medium Post](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 
 [2- Talk Ref Compiler Design Lecture](https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&ab_channel=Uncode-GATEComputerScience)
+
+### 3. Faster CPython
+
+[3- Guido - Faster CPython Repo](https://github.com/markshannon/faster-cpython)
